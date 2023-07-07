@@ -16,6 +16,16 @@ you, if you change any of this the git program will notice it and compromise you
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
+Girt with a boyish garb for boyish task,  
+   Eager she wields her spade: yet loves as well. 
+Rest on the friendly knee, intent to ask. 
+         The tale one loves to tell.  
+
+Rude scoffer of the seething outer strife,  
+   Unmeet to read her pure and simple spright,  
+Deem, if thou wilt, such hours a waste of life,  
+         Empty of all delight!  
+
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
