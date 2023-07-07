@@ -28,10 +28,21 @@ Deem, if thou wilt, such hours a waste of life,
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
+Nature’s first green is gold,  
+Her hardest hue to hold.  
+Her early leaf’s a flower;  
+But only so an hour.  
+Then leaf subsides to leaf.  
+So Eden sank to grief,  
+So dawn goes down to day.  
+Nothing gold can stay.  
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 
+The sun was shining on the sea,  
+      Shining with all his might:  
+      
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
 
